@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jobsity-challenge-a6061",
+  "private_key_id": "83b3b642ec038f38222c429b9d249f34eb50f29a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCs9NpkFuu9Lsh8\nfHfCf3EfApLhie5gzgmjNZwDeyuL+AVLku8Eod+ARcO5mNYHffMKpoL2qngu5LqD\nOpsmH9HtSM5WmC2bWqasnnhusAZblR9xRAKZ6jwEINFOrciOJtEn2hVR4oaT455g\nOzFepckUQIAfEh8BBKlAFEQ+lfsPoZGAt0EiovA9P0QWTvPDfSKmk6N39t8A+KIE\nlE60S0jMwMYnljV8b0e5hga39k5UXpJQJJkq2Ub80IQlaErBL4IfG5maw7d0u6YD\nGMH8Q9jheYc7AKQOce/GjEoW2L38b1fHaIhOtMVRkz85bdBHiO/0yaKPvXxpvsKI\nxX/pOCuLAgMBAAECggEACm0S4ohkhZmrCaC8h25Z9LNEWhw6e9NvzqA4sMJdXv6r\nMwxpztmt43RRLCsDxp0tEtiezx0k9Dli6kOU1A4vACLXbW5BsY/GubkugV2obx+P\nhFXD4mC1us9PpB04bc6hOnRxvJHvPZMHGmihvUGOhuNXKzL9yM3ty1MYGhMTI19R\n1OqF63qAI7g9CSQAkX8DlnVJ6g63iZtsPpO42hOi7fhyH6ykdB2oiS7RZmMuIIVI\nxRy8KSGM1fp65AvgUieXVWv17Ofvy6ZA7wGx2m+8FWmGai8nA0/1e1T4QM4t06lq\nGtkkW+QT3MONRbTIf/ENn3skjKotAziiX2v+W5pxAQKBgQDo2DwyXRlN8dJSvxqd\ngTwWHJ8aGMRJJ/yQj7inAF2Le93H4QBYoX3F9KYA44KQqKFkwdgYm8QmiDzB1rwR\nJ0P+xQYdZRH/tnEUE9NFNoAtNyMRkeeJAy2ppp3gzWgrZO5I6p2VMeuv8YjhW/DD\ngBpri3/x4dPHfX709n0/AyGXoQKBgQC+J/uFnP1CrhGR9AmhrKNjGgMHCctod5gS\nMN0/TYOpr4izRg+BDOr8GT4HvSxXkRRxkb5hP3wSv52jeNQ0MwZJZiOcS0J6FNEO\nLlhaYJMfthH028yQpWHxlg10k5XQEzCt0chSmkt5t1djkoioQAfGIFFKkXvfFNYe\nyGMuWWEDqwKBgCUy1nsdUHuZVIaPrUrYaKcHr4tVxZYCY2Ec9N0JO+iaw1W5ZnrC\nYfuMGDEwJ53AsvgL1+AmknGtdjdpfOYopb4/77gme3ekx+/zMt9t05BlrJ6T9q92\n6Iaf7b0KU8gK+d6ATOiW7xZOuhV2wMIa5x2jTa9w6oqGTBAKiPvWHjnBAoGBAJnt\njap0EYM3mxt125IXSM+BD/BTmme/X8dh7MdAfRMP9+1/Ci/iABoAaPkkxk9ALrdc\nTis0k8AtgnMA7W4v26fw2WS8e1yNm0kKdRT71jy2SsTWZDq21ZkVaWDz0zLzRdV+\n2tUa93vY0RHWXW8tHd3g7U0ahZZorIeQmNC9I04vAoGBAJTIbv3pnOaA5Ruc0bB8\n99A5wlCKTZCL8CpXt4yrdoh3KCiJaaDuZQu7Xrrt8VPBLlL3kkDfo6YLdWEI9NMo\nme5niR3CyA7wld/g3iIH8/YQLkjShxFlgfGGxo5V4FQ8BcrV+uQ+V8iQ4oqNOnqR\nSJCTtOM9ywWYKrdWvbmZZCGC\n-----END PRIVATE KEY-----\n",
+  "client_email": "jobsity-challenge-a6061@appspot.gserviceaccount.com",
+  "client_id": "113513859661321555268",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jobsity-challenge-a6061%40appspot.gserviceaccount.com"
+}
