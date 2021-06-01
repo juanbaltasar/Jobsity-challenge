@@ -4,12 +4,12 @@ Then use any type of command line and position yourself in the project folder, m
 After that is finished, make sure you have RabbitMQ running and that the port 4000 is not taken.
 Finally you can run the command "npm start".
 If you go to the address "http://localhost:4000" in your browser, you will access the page. 
-/nThe available users are: 
-/nUsername: admin
-/npassword: admin.
-/nAnd:
-/nUsername: admin1
-/npassword: admin1
+The available users are: 
+Username: John
+password: John
+And:
+Username: George
+password: George
 
 PS
 I'm aware that in the assets folder is the key to acces the firebase, but that's the way that google tells you to do in the documentation
