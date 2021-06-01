@@ -23,7 +23,6 @@ class RabbitMQManager {
                 });
         
                 chan.sendToQueue(queue, Buffer.from(msg));
-                console.log(`Sent ${msg}`)
             })
             setTimeout(function() {
                 conn.close();
@@ -49,7 +48,6 @@ class RabbitMQManager {
                 });
         
                 chan.consume(queue, function(msg) {
-                    console.log(msg.content.toString())
                     axios.post('http://localhost:4000/messages', {
                         message:msg.content.toString(),
                         user:'Stock Quote Bot'

@@ -28,7 +28,6 @@ app.get('/', (req, res) => {
 })
 
 app.post('/StockQuoteBot', (req, res) => {
-    console.log(req.body.message)
     StockQuoteBot(req.body.message.slice(7))
     res.status(200).send('Received')
 })
@@ -48,7 +47,7 @@ app.use('/login', loginRouter)
 
 io.on('connection', (socket) => {
     socket.on('NewMessage', (arg) => {
-        //console.log(`New Message: ${arg.message}`)
+        //console.log(`Message Received`)
         MessagesUC.handleRecievedMessage(arg).then(() => {
             MessagesUC.getLastMessages().then((val) => {
                 io.emit('NewMessage', val)
